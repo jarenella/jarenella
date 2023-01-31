@@ -3,3 +3,4 @@
 - I'm open to collaborating on just about anything!
 - JavaScript, Lua, CSS, HTML, Node.js, React
 - Contact me at jamesa122333@gmail.com
+- My portfolio can be found at: https://jarenella.github.io/portfolio/
