@@ -4,3 +4,6 @@
 - JavaScript, Lua, CSS, HTML, Node.js, React, MySQL, MongoDB
 - Contact me at jamesa122333@gmail.com
 - My portfolio can be found at: https://jarenella.github.io/portfolio/
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
