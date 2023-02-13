@@ -2,6 +2,7 @@
 - I'm a web developer but am also interested in game dev on the side
 - I'm open to collaborating on just about anything!
 - JavaScript, Lua, CSS, HTML, Node.js, React, MySQL, MongoDB
+- Currently trying to learn Java
 - Contact me at ijarenella@gmail.com
 - My portfolio can be found at: https://jarenella.github.io/portfolio/
 
