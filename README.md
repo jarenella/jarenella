@@ -17,7 +17,7 @@
 </p>
 
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jarenella&theme=dracula"/>
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarenella&layout=compact&theme=dracula"/>
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarenella&theme=dracula&layout=compact"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenella)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarenella)](https://github.com/anuraghazra/github-readme-stats)
