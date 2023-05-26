@@ -18,3 +18,12 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenella&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarenella&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png" 
+    alt="Our logo">
+</img>
