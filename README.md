@@ -17,6 +17,4 @@
 </p>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenella&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarenella&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarenella&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
