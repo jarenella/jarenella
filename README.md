@@ -4,7 +4,6 @@
 - JavaScript, Lua, CSS, HTML, Node.js, React, MySQL, MongoDB
 - Currently learning C#
 - Contact me at ijarenella@gmail.com
-- My portfolio can be found at: https://jarenella.github.io/personal-portfolio/
 
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>     </a>
